@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## how to run the project on localhost?
+## How to run the project on localhost?
 
 - Take a clone from git :- git clone https://github.com/webvaibh/Test_project_lv.git).
 - Create a new database on the localhost. The database name is dummy_project_new.
