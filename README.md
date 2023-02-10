@@ -11,11 +11,11 @@
 
 - Take a clone from git :- git clone https://github.com/webvaibh/Test_project_lv.git).
 - Create a new database on the localhost. The database name is dummy_project_new.
-- Please update database user name and password In the inv file if required.
+- Please update the database user name and password In the inv file if required.
 - Please migrate db. :- php artisan migrate.
 - Insert a dummy user. :- php artisan db:seed --class=UserSeeder.
 - Start the server. :- php artisan serve).
-- Please login wuth dummy details. Username is demo@gmail.com and PassWord is Demo@321.
+- Please login wuth dummy details. The username is demo@gmail.com and the password is Demo@321.
 
 
 ## Learning Laravel
