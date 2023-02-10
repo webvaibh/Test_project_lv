@@ -15,7 +15,7 @@
 - Please migrate db. :- php artisan migrate
 - Insert a dummy user. :- php artisan db:seed --class=UserSeeder
 - Start the server. :- php artisan serve
-- Please login wuth dummy details. The username is demo@gmail.com and the password is Demo@321.
+- Please login with dummy details. The username is demo@gmail.com and the password is Demo@321.
 
 
 ## Learning Laravel
